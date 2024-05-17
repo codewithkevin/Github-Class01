@@ -1,4 +1,3 @@
 # Github-Class01
 
-This is working on Github, and Friends Class 01
-Okay
+Welcome to My class
